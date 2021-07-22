@@ -1,9 +1,3 @@
-
-### Screenshot
-
-![Screenshot ](https://github.com/LearnCodeWithDurgesh/Live-Cricket-Score/blob/master/screenshot/screen%203.PNG?raw=true)
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
